@@ -1,0 +1,42 @@
+{
+  "product": [
+    {
+      "id": "fc41",
+      "name": "seblak",
+      "price": "15.000",
+      "category": "Makanan"
+    },
+    {
+      "id": "ecc2",
+      "name": "escampur",
+      "price": "9.000",
+      "category": "Minuman"
+    },
+    {
+      "id": "5796",
+      "name": "makaroni",
+      "price": "7.000",
+      "category": "Makanan"
+    },
+    {
+      "id": "6b09",
+      "name": "jus alpukat",
+      "price": "10.000",
+      "category": "Minuman"
+    }
+  ],
+  "category": [
+    {
+      "id": "c514",
+      "name": "Makanan"
+    },
+    {
+      "id": "1d01",
+      "name": "Minuman"
+    },
+    {
+      "id": "4afd",
+      "name": "Buah-Buahan"
+    }
+  ]
+}
